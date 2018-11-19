@@ -8,9 +8,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * POST提交方式
- * @author Administrator
- *
+ * ajax的基本入门post
  */
 public class Ajax2Servlet extends HttpServlet {
 
