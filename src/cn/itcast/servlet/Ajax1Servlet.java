@@ -8,9 +8,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * ajax的基本入门
- * @author Administrator
- *
+ * ajax的基本入门get
  */
 public class Ajax1Servlet extends HttpServlet {
 
