@@ -16,8 +16,6 @@ import org.dom4j.io.SAXReader;
 
 /**
  * 获取所有的省份的信息
- * @author Administrator
- *
  */
 public class ProvinceServlet extends HttpServlet {
 	
