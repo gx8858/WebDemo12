@@ -15,9 +15,7 @@ import cn.itcast.utils.MyJdbcUtil;
 import cn.itcast.vo.User;
 
 /**
- * 判断用户名是否已经存在 
- * @author Administrator
- *
+ * 判断用户名是否已经存在servlet（查数据库） 
  */
 public class RegServlet extends HttpServlet {
 
