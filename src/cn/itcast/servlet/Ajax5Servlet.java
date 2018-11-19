@@ -9,8 +9,6 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  * 返回json格式的数据
- * @author Administrator
- *
  */
 public class Ajax5Servlet extends HttpServlet {
 
