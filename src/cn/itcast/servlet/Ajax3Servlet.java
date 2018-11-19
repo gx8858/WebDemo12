@@ -13,6 +13,7 @@ public class Ajax3Servlet extends HttpServlet {
 
 	public void doGet(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
+		
 		// XML格式字符串
 		String xml = "<stus><stu name='zhangsan'><age>18</age></stu></stus>";
 		// 设置响应头信息
