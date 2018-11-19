@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>ajax异步请求post</title>
 
 <script type="text/javascript">
 	// 发送异步的请求，获取数据
