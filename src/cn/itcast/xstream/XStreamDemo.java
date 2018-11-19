@@ -22,6 +22,7 @@ public class XStreamDemo {
 		return pList;
 	}
 	
+	
 	/**
 	 <list>							--> pList
 		  <cn.itcast.vo.Province>	-->相当于Province的全路径
