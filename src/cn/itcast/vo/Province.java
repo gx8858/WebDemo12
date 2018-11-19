@@ -5,6 +5,9 @@ import java.util.List;
 
 public class Province {
 	
+	/**
+	 * XStream把JavaBean转换成xml（字符串类型）
+	 */
 	private String name;
 	// 一个省份下有多个城市
 	private List<City> citys = new ArrayList<City>();
