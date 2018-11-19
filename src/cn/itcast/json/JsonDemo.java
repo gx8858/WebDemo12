@@ -9,6 +9,9 @@ import cn.itcast.vo.User;
 
 public class JsonDemo {
 	
+	/**
+	 * jsonÀý×Ó
+	 */
 	@Test
 	public void run(){
 		JSONObject json = new JSONObject();
