@@ -17,8 +17,6 @@ import org.dom4j.io.SAXReader;
 
 /**
  * 通过省份的信息获取该省下所有的城市
- * @author Administrator
- *
  */
 public class CityServlet extends HttpServlet {
 
